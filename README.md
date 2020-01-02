@@ -1,2 +1,1 @@
-# photoylab
-photoylab.com
+# Page header
